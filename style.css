@@ -1,0 +1,87 @@
+body {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.as {
+    font-family: 'Josefin Sans', sans-serif;
+    color: #f10;
+}
+div img{
+    margin-top: 5px;
+    width: 100px;
+}
+
+.testing_div #aad{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.testing_div {
+    background-color: #808080;
+    width: 80%;
+    margin-left: 6%;
+    border-radius: 25px;
+    margin-bottom: 5px;
+}
+.footer {
+    color: #808080;
+    background-color: #fff;
+    width: 100%;
+    line-height: 2;
+    bottom: 0;
+    margin-top: 10px;
+    position: fixed;
+}
+.testing_div .result b {
+    color: purple;
+}
+.testing_div .result h2{
+    background-color: #fff;
+    border-radius: 25px;
+}
+.testing_div .result a {
+    text-decoration: none;
+    color: #f10;
+}
+
+
+
+
+
+
+::-webkit-scrollbar {
+    width: 18px;
+    height: 20px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: green;
+    border-radius: 18px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #f10;
+    border-radius: 18px;
+}
+
+
+
+bad h4 b {
+    color: rgb(96, 2, 96);
+    font-weight: bolder;
+}
+
+
+.rst2 {
+    border: 2px solid #808080;
+    margin-bottom: 100px;
+    width: 80%;
+    background-color: pink;
+    line-height: 1;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 150px;
+    padding-left: 10px;
+    box-shadow: 6px 6px 10px gray;
+    border-radius: 15px;
+}
